@@ -12,9 +12,9 @@ MEng Electrical & Electronic Engineering graduate from the University of Southam
 ## Recent Projects
 
 🤖 **[PetBot](https://youtu.be/3umn0yt_FcE)** – LLM-powered social robot with Flask backend, MQTT comms, and 3D-printed chassis  
-🎮 **[AVVR](https://chronohaxx.itch.io/avvr)** – VR spatial audio app built with Unity and Steam Audio (published on itch.io)  
+🎮 **[AVVR](https://linktr.ee/gdp4)** – VR spatial audio app built with Unity and Steam Audio  
 📚 **[EEE Roadmap](https://eee-roadmap.muhammadhazimiyusri.uk)** – Interactive learning platform for EEE students, inspired by roadmap.sh  
-📷 **Stereo Camera System** – DIY stereoscopic camera with Raspberry Pi 5 and Godot 4 VR viewer  
+📷 **[Stereo Camera System](https://muhammadhazimiyusri.uk/projects/diy-stereo-camera-system)** – DIY stereoscopic camera with Raspberry Pi 5 and Godot 4 VR viewer  
 
 ## Currently
 
