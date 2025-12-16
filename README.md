@@ -20,6 +20,9 @@ MEng Electrical & Electronic Engineering graduate from the University of Southam
 
 - 🔍 Job hunting for graduate software/embedded roles in the UK
 - 🛠️ Building side projects and maintaining my [portfolio site](https://muhammadhazimiyusri.uk)
+- 🧑‍💻 Hacking around in [TryHackMe](https://tryhackme.com/p/muhammadhazimiyusri) and [pwn.college](https://pwn.college/), [THM notes and writeups](https://github.com/Muhammad-Hazimi-Yusri/thm-notes-writeups)
+
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/muhammadhazimiyusri.png)
 - 📖 Most of my uni work lives on [GitLab](https://git.soton.ac.uk/mhby1g21)
 
 ## Get in Touch
