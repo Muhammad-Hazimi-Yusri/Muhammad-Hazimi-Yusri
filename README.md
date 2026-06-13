@@ -6,7 +6,7 @@ MEng Electrical & Electronic Engineering, First Class Honours (University of Sou
 
 ## What I Work With
 
-**Power systems:** IPSA, MATLAB/Simulink, grid connection studies (load flow, fault levels)  
+**Power systems:** PowerFactory, IPSA, grid connection studies (load flow, fault levels)  
 **Languages:** Python, C++, C#, TypeScript/JavaScript, MATLAB, GDScript  
 **Web & app:** Next.js, Astro, Flask, Supabase, Flutter, PyQt  
 **Game & XR:** Unity, Godot, Steam Audio  
