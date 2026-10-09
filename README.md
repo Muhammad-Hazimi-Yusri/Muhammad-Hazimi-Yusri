@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hazimi Yusri 👋
 
-**Graduate Consultant @ TNEI, Manchester** — on the Connections team, running grid connection studies for renewable and conventional generation across the UK, Ireland & Europe.
+**Consultant @ TNEI, Manchester** — on the Connections team, running grid connection studies for renewable and conventional generation across the UK, Ireland & Europe.
 
 MEng Electrical & Electronic Engineering, First Class Honours (University of Southampton). Power systems by day; I build software, embedded and XR side projects the rest of the time.
 
